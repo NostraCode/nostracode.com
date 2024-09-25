@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - dev
-  pull_request:
+  # pull_request:
     # Optionally configure to run only for specific files. For example:
     # paths:
     # - "website/**"
