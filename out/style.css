@@ -57,3 +57,8 @@ body {
   padding: 0 30px;
   object-fit: contain;
 }
+
+.map {
+  width: 100px;
+  height: 100px;
+}
